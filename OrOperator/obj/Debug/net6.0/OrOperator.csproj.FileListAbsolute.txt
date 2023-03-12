@@ -1,0 +1,15 @@
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.exe
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.deps.json
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.runtimeconfig.json
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.dll
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.pdb
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.csproj.AssemblyReference.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.AssemblyInfoInputs.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.AssemblyInfo.cs
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.csproj.CoreCompileInputs.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.dll
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\refint\OrOperator.dll
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.pdb
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.genruntimeconfig.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\ref\OrOperator.dll

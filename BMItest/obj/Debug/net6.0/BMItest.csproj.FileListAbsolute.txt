@@ -1,0 +1,15 @@
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\bin\Debug\net6.0\BMItest.exe
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\bin\Debug\net6.0\BMItest.deps.json
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\bin\Debug\net6.0\BMItest.runtimeconfig.json
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\bin\Debug\net6.0\BMItest.dll
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\bin\Debug\net6.0\BMItest.pdb
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\BMItest.csproj.AssemblyReference.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\BMItest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\BMItest.AssemblyInfoInputs.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\BMItest.AssemblyInfo.cs
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\BMItest.csproj.CoreCompileInputs.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\BMItest.dll
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\refint\BMItest.dll
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\BMItest.pdb
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\BMItest.genruntimeconfig.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\BMItest\obj\Debug\net6.0\ref\BMItest.dll

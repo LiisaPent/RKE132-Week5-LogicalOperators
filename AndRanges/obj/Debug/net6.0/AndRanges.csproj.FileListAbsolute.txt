@@ -1,0 +1,15 @@
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net6.0\AndRanges.exe
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net6.0\AndRanges.deps.json
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net6.0\AndRanges.runtimeconfig.json
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net6.0\AndRanges.dll
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net6.0\AndRanges.pdb
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\AndRanges.csproj.AssemblyReference.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\AndRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\AndRanges.AssemblyInfoInputs.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\AndRanges.AssemblyInfo.cs
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\AndRanges.csproj.CoreCompileInputs.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\AndRanges.dll
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\refint\AndRanges.dll
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\AndRanges.pdb
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\AndRanges.genruntimeconfig.cache
+C:\Users\pentl\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net6.0\ref\AndRanges.dll
